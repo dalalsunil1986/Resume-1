@@ -9,12 +9,10 @@
 # 个人信息
 
  - 王连杰/男/1989
- - 高中/商丘四高
  - 工作年限：5年
  - GitHub：http://github.com/wlanjie
-
  - 期望职位：Android高级程序员，Android音视频开发工程师
- - 期望薪资：税前月薪18k~22k
+ - 期望薪资：税前月薪20k~23k
  - 期望城市：上海
 
 ---
@@ -34,10 +32,10 @@ Android端采集摄像头和麦克风进行rtmp推流和opengl进行视频处理
 
 ### 鬼脸对讲机
 鬼脸对讲机让你和好友们异步视频聊天,拉近距离,不错过朋友间的精彩画面
--  rtmp 协议传输音视频流.
-- 视频 h264编码.
-- 音频 aac 编码.
-- 使用 ijkplayer 视频播放
+- rtmp协议传输音视频流.
+- 视频h264编码.
+- 音频aac 编码.
+- 使用ijkplayer 视频播放
 - opengl视频处理
 
 
@@ -55,9 +53,7 @@ Teambition是一个简单,高效的项目协作工具,你可以在这里管理�
 - 负责底层的重构工作.
 - bug的修复和维护.-
 - 采用rxjava,retrofit,realm作为底层框架.
-- 采用mvp作为框架结构.
 - 采用fabric,phabricator作为bug追踪和管理
-- 采用websocket进行socket通信
 
 ### [简聊 已开源](https://github.com/jianliaoim/talk-android)
 简聊是一款免费的企业级即时沟通工具
@@ -65,7 +61,6 @@ Teambition是一个简单,高效的项目协作工具,你可以在这里管理�
 - 数据库重构工作.
 - bug的修复和维护.
 - 采用rxjava,retrofit,realm作为底层框架.
-- 采用websocket进行socket通信
 
 ## 上海魔之视信息科技有限公司 （ 2013年4月 ~ 2015年7月 ）
 
@@ -78,12 +73,19 @@ Teambition是一个简单,高效的项目协作工具,你可以在这里管理�
 ### 哇啦
 为东方卫视定制的一款应用
 
+## 教育经历
+- 高中/商丘四高
+
 # 技能清单
 
-- Andriod开发
-- NDK开发
+- NDK OpenGL基础开发
 - Android音视频开发
-- FFmpeg开发
-- OpenGL开发
-- H264/aac
-- rtmp
+- FFmpeg基础开发
+- H264/aac rtmp
+
+# 自我评价
+在公司中技术得到领导的极度认可,团队协作能力强,对音视频开发有强烈兴趣,对代码质量有很高的追求.
+
+## 致谢
+
+感谢您花时间阅读我的简历，期待能有机会和您共事
